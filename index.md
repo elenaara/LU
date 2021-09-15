@@ -8,4 +8,4 @@ Bachelor in Biochemistry at the Autonomous University of Madrid.
 ## Contact:
 - email: earamendia@gmail.com
 - [linkedin](https://www.linkedin.com/in/elena-aramend%C3%ADa-cotillas-682087210/)
-- my [github profile] (https://github.com/elenaara)
+- my [github profile](https://github.com/elenaara)
