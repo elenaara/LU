@@ -1,4 +1,4 @@
-
+Hi!
 My name is Elena Aramendía and I am from a Madrid, Spain. Currently, I am a master student at the Bioinformatics MSc program at Lund University.
 
 ## Background
